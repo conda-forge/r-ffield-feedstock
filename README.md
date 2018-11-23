@@ -14,9 +14,8 @@ Summary: Force field simulation of interaction of set of points. Very useful for
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-ffield-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-ffield-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-ffield-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-ffield-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-ffield-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-ffield-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-ffield-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-ffield-feedstock)
 
 Current release info
 ====================
