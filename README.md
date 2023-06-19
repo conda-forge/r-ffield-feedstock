@@ -1,11 +1,11 @@
-About r-ffield
-==============
+About r-ffield-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ffield-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=FField
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ffield-feedstock/blob/main/LICENSE.txt)
 
 Summary: Force field simulation of interaction of set of points. Very useful for placing text labels on graphs, such as scatterplots.
 
