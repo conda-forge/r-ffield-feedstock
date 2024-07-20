@@ -1,7 +1,6 @@
 {% set version = '0.1.0' %}
 
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-ffield
@@ -16,7 +15,7 @@ source:
 
 build:
   noarch: generic
-  number: 1005
+  number: 1006
   rpaths:
     - lib/R/lib/
     - lib/
