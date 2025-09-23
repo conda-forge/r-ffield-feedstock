@@ -15,7 +15,7 @@ source:
 
 build:
   noarch: generic
-  number: 1006
+  number: 1007
   rpaths:
     - lib/R/lib/
     - lib/
